@@ -1,2 +1,2 @@
-# Blog
+# blog
 Blog for my github page
